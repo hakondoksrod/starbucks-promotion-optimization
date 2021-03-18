@@ -22,6 +22,6 @@ The data for this prject consists of about 120,000 data points split in a 2:1 ra
 
 The goal is to maximize the following metrics:
 - Incremental Response Rate(IRR)
-IRR shows how many more customers purchased the product with the promotion, as compared to if they didn't receive the promotion
+--IRR shows how many more customers purchased the product with the promotion, as compared to if they didn't receive the promotion
 - Net Incremental Revenue (NIR)
-NIR shows the net revenue of the promotion after deducting the cost of distributing the promotion
+--NIR shows the net revenue of the promotion after deducting the cost of distributing the promotion
